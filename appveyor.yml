@@ -1,0 +1,4 @@
+build_script:
+  - echo Hello world!
+
+test: false
